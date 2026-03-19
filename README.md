@@ -1,8 +1,8 @@
 # 🎵 CompressImage
 
-A Qt-based C++ application featuring **custom lossless image compression algorithms** with detailed metrics and comparisons against standard formats. Some algorithms achieve up to **31× compression**, outperforming PNG in certain cases.
+A Qt-based C++ application featuring **custom lossless image compression algorithms** with detailed metrics and comparisons against standard formats. Some algorithms achieve up to **100x compression**, outperforming PNG in certain cases.
 
-<img width="808" height="425" alt="Main window screenshot" src="https://github.com/user-attachments/assets/1b7088f4-4c32-4771-abe7-d0cb7608ae03" />
+<img width="807" height="424" alt="Main window screenshot" src="https://github.com/user-attachments/assets/c9d51d2c-4274-461c-8286-68748ee27069" />
 
 ## 📍 Background
 
@@ -40,4 +40,4 @@ This project started as an experiment: I wanted to see if I could **reduce the s
 
 ## 🎞️ Preview
 
-https://github.com/user-attachments/assets/a56b2a44-aff2-49a1-9674-cbd1a0d66950
+https://github.com/user-attachments/assets/ce8d4895-0953-47a9-b89f-75b2f2aa5e2e
